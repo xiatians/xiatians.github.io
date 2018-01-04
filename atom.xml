@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-07T10:36:31.018Z</updated>
+  <updated>2017-11-28T00:56:50.460Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,20 +17,22 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://yoursite.com/2017/08/07/%E7%BC%96%E5%8F%B7/"/>
-    <id>http://yoursite.com/2017/08/07/编号/</id>
-    <published>2017-08-07T10:07:02.441Z</published>
-    <updated>2017-08-07T10:36:31.018Z</updated>
+    <title>MarkDown语法学习记录</title>
+    <link href="http://yoursite.com/2017/09/20/MD%E8%AF%AD%E6%B3%95%E8%AE%B0%E5%BD%95/"/>
+    <id>http://yoursite.com/2017/09/20/MD语法记录/</id>
+    <published>2017-09-19T16:00:00.000Z</published>
+    <updated>2017-11-28T00:56:50.460Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Genymotion-———–-001"><a href="#Genymotion-———–-001" class="headerlink" title="Genymotion ———–  001"></a>Genymotion ———–  001</h3><h3 id="modao——————–-002"><a href="#modao——————–-002" class="headerlink" title="modao——————–  002"></a>modao——————–  002</h3><h3 id="GitHub——————–-003"><a href="#GitHub——————–-003" class="headerlink" title="GitHub——————– 003"></a>GitHub——————– 003</h3><h3 id="阿里云———————-004"><a href="#阿里云———————-004" class="headerlink" title="阿里云——————— 004"></a>阿里云——————— 004</h3><h3 id="钉钉————————-005"><a href="#钉钉————————-005" class="headerlink" title="钉钉———————— 005"></a>钉钉———————— 005</h3><h3 id="ss"><a href="#ss" class="headerlink" title="ss"></a>ss</h3>]]></content>
+    <content type="html"><![CDATA[<h3 id="1-基本语法："><a href="#1-基本语法：" class="headerlink" title="1 基本语法："></a>1 基本语法：</h3><p> a . <strong>标题</strong> </p><pre><code># H1## H2### H3#### H4</code></pre><a id="more"></a><p> b . <strong>段落</strong> </p><pre><code>用空行分隔 </code></pre><p> c . <strong>强调</strong></p><pre><code>*斜体*_斜体_**加粗**__加粗__</code></pre><p> d . <strong>链接</strong></p><pre><code>[文字描述](链接网址)如：[点我跳转百度](www.baidu.com)</code></pre><p><a href="www.baidu.com">点我跳转百度</a></p><p> e . <strong>引用</strong></p><pre><code>&gt; 这里是引用的内容</code></pre><blockquote><p>我是引用的内容 </p></blockquote>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h3 id=&quot;Genymotion-———–-001&quot;&gt;&lt;a href=&quot;#Genymotion-———–-001&quot; class=&quot;headerlink&quot; title=&quot;Genymotion ———–  001&quot;&gt;&lt;/a&gt;Genymotion ———–  001&lt;/h3&gt;&lt;h3
-      
+      &lt;h3 id=&quot;1-基本语法：&quot;&gt;&lt;a href=&quot;#1-基本语法：&quot; class=&quot;headerlink&quot; title=&quot;1 基本语法：&quot;&gt;&lt;/a&gt;1 基本语法：&lt;/h3&gt;&lt;p&gt; a . &lt;strong&gt;标题&lt;/strong&gt; &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# H1
+## H2
+### H3
+#### H4
+&lt;/code&gt;&lt;/pre&gt;
     
     </summary>
     
@@ -38,64 +40,19 @@
   </entry>
   
   <entry>
-    <title></title>
-    <link href="http://yoursite.com/2017/08/07/MD%E8%AF%AD%E6%B3%95%E8%AE%B0%E5%BD%95/"/>
-    <id>http://yoursite.com/2017/08/07/MD语法记录/</id>
-    <published>2017-08-07T10:07:02.433Z</published>
-    <updated>2017-07-17T14:22:45.970Z</updated>
+    <title>数据源</title>
+    <link href="http://yoursite.com/2017/09/08/%E7%BC%96%E5%8F%B7/"/>
+    <id>http://yoursite.com/2017/09/08/编号/</id>
+    <published>2017-09-07T16:00:00.000Z</published>
+    <updated>2017-11-27T10:53:45.885Z</updated>
     
-    <content type="html"><![CDATA[<p>#MD语法学习记录</p><h3 id="1-基本语法："><a href="#1-基本语法：" class="headerlink" title="1 基本语法："></a>1 基本语法：</h3><p> a . <strong>标题</strong> </p><pre><code># H1## H2### H3#### H4</code></pre><p> b . <strong>段落</strong> </p><pre><code>用空行分隔 </code></pre><p> c . <strong>强调</strong></p><pre><code>*斜体*_斜体_**加粗**__加粗__</code></pre><p> d . <strong>链接</strong></p><pre><code>[文字描述](链接网址)如：[点我跳转百度](www.baidu.com)</code></pre><p><a href="www.baidu.com">点我跳转百度</a></p><p> e . <strong>引用</strong></p><pre><code>&gt; 这里是引用的内容</code></pre><blockquote><p>我是引用的内容 </p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;#MD语法学习记录&lt;/p&gt;
-&lt;h3 id=&quot;1-基本语法：&quot;&gt;&lt;a href=&quot;#1-基本语法：&quot; class=&quot;headerlink&quot; title=&quot;1 基本语法：&quot;&gt;&lt;/a&gt;1 基本语法：&lt;/h3&gt;&lt;p&gt; a . &lt;strong&gt;标题&lt;/strong&gt; &lt;/p&gt;
-&lt;pr
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/08/07/hello-world/"/>
-    <id>http://yoursite.com/2017/08/07/hello-world/</id>
-    <published>2017-08-07T10:07:02.423Z</published>
-    <updated>2017-07-13T13:34:00.629Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h4 id="Genymotion-———–-001"><a href="#Genymotion-———–-001" class="headerlink" title="Genymotion ———–  001"></a>Genymotion ———–  001</h4><h4 id="modao——————–-002"><a href="#modao——————–-002" class="headerlink" title="modao——————–  002"></a>modao——————–  002</h4><h4 id="GitHub——————–-003"><a href="#GitHub——————–-003" class="headerlink" title="GitHub——————– 003"></a>GitHub——————– 003</h4><h4 id="阿里云———————-004"><a href="#阿里云———————-004" class="headerlink" title="阿里云——————— 004"></a>阿里云——————— 004</h4><h4 id="钉钉————————-005"><a href="#钉钉————————-005" class="headerlink" title="钉钉———————— 005"></a>钉钉———————— 005</h4>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>feng&#39;s first love</title>
-    <link href="http://yoursite.com/2017/07/13/feng-s-first-love/"/>
-    <id>http://yoursite.com/2017/07/13/feng-s-first-love/</id>
-    <published>2017-07-13T14:45:04.000Z</published>
-    <updated>2017-07-14T05:28:23.751Z</updated>
-    
-    <content type="html"><![CDATA[<p>this I first lenarngit ,I thinks it is very good</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;this I first lenarngit ,I thinks it is very good&lt;/p&gt;
-
+        &lt;h4 id=&quot;Genymotion-———–-001&quot;&gt;&lt;a href=&quot;#Genymotion-———–-001&quot; class=&quot;headerlink&quot; title=&quot;Genymotion ———–  001&quot;&gt;&lt;/a&gt;Genymotion ———–  001&lt;/h4&gt;&lt;h4
       
     
     </summary>
